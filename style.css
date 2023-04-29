@@ -158,7 +158,7 @@ h4 {
 .grid {
     outline: dotted;
     outline-color: orange;
-    background: rgba(51, 170, 51, .1) /*  10% opaque green */
+    background: rgba(51, 170, 51, .1); /*  10% opaque green */
     display: -ms-flexbox; /* IE10 */
     display: flex;
     -ms-flex-wrap: wrap; /* IE10 */
