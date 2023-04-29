@@ -156,6 +156,8 @@ h4 {
 }
 
 .grid {
+    outline:dotted;
+    outline-color: orange;
     color:white;
     opacity:0.5;
     display: -ms-flexbox; /* IE10 */
