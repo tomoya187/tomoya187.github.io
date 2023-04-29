@@ -464,7 +464,7 @@ h4 {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-image: url('img/rain-header.jpg'); /*Dark mode*/
+        /*background-image: url('img/rain-header.jpg'); Dark mode*/
     }
 
     p {
