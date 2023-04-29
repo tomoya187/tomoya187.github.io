@@ -156,6 +156,8 @@ h4 {
 }
 
 .grid {
+    color:white;
+    opacity:0.5;
     display: -ms-flexbox; /* IE10 */
     display: flex;
     -ms-flex-wrap: wrap; /* IE10 */
