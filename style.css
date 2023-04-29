@@ -100,7 +100,7 @@ h4 {
 .descriptionDiv {
     display: block;
     outline: dotted;
-    background-color:rgba(195,195,200, .5);
+    background-color:rgba(195,195,200, .8);
     outline-color:red;
     margin-left: auto;
     margin-right: auto;
