@@ -159,7 +159,7 @@ h4 {
 .grid {
     outline: dotted;
     outline-color: orange;
-    background-color: rgba(51, 170, 51, .1); /*  10% opaque green */
+    background-color: rgba(51, 170, 51, .7); /*  10% opaque green */
     display: -ms-flexbox; /* IE10 */
     display: flex;
     -ms-flex-wrap: wrap; /* IE10 */
@@ -486,7 +486,7 @@ h4 {
     }
 
     .description {
-        color: rgb(174,174,178);
+        color: rgba(174,174,178, .8);
     }
 
     .card-body {
