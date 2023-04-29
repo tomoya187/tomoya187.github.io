@@ -1,7 +1,6 @@
 body {
     height: 100%;
-    color: #252525;
-    background-image:url('img/rain-header.jpg');
+    background-image:url('img/rain-header.jpg');/*light mode*/
     margin: 0px;
     line-height: 30px;
     display: block;
@@ -462,8 +461,7 @@ h4 {
 
 @media (prefers-color-scheme: dark) {
     body {
-        color: #eee;
-        background-color: #050505;
+        background-image: url('img/rain-header.jpg'); /*Dark mode*/
     }
 
     p {
